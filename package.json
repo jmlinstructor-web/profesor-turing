@@ -44,7 +44,7 @@
     "test:server": "turbo run test --filter=./packages/server",
     "prepare": "husky"
   },
-  "packageManager": "pnpm@9.15.0",
+
   "workspaces": [
     "packages/*",
     "plugin-specification/*"
